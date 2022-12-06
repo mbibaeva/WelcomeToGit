@@ -1,2 +1,3 @@
 # WelcomeToGit
 Showcasing git
+Amazing
